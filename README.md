@@ -1,0 +1,1 @@
+a macro based snapchat bot built using appium framework 
